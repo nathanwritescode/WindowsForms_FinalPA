@@ -1,0 +1,10 @@
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\bin\Debug\Talley_PA5.exe.config
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\bin\Debug\Talley_PA5.exe
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\bin\Debug\Talley_PA5.pdb
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\obj\Debug\Talley_PA5.csprojResolveAssemblyReference.cache
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\obj\Debug\Talley_PA5.Form1.resources
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\obj\Debug\Talley_PA5.Properties.Resources.resources
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\obj\Debug\Talley_PA5.csproj.GenerateResource.Cache
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\obj\Debug\Talley_PA5.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\obj\Debug\Talley_PA5.exe
+C:\Users\natha\source\repos\Talley_PA5\Talley_PA5\obj\Debug\Talley_PA5.pdb
